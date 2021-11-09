@@ -11,4 +11,6 @@ from read import check
 #Get all the values
 #Get means of all of them
 #The mean is the total rgb value
-reader('ex.png')
+
+
+reader(input("Give name of file (relative) to ΔEAMify: "))
